@@ -10,6 +10,10 @@ int main() {
     Enemy *enemy = new Enemy("Sukuna", 80,20,20,20);
     combate->Combat(player,enemy);
 
+    delete combate;
+    delete player;
+    delete enemy;
+
 
     return 0;
 }
