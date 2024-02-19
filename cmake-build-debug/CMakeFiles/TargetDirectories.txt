@@ -1,0 +1,3 @@
+/home/angel/poo/Rpg/cmake-build-debug/CMakeFiles/Rpg.dir
+/home/angel/poo/Rpg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/poo/Rpg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
